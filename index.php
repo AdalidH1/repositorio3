@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Soy el archivo index</h1>
+    <h1>hola</h1>
 </body>
 </html>
